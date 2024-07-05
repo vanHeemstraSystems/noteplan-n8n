@@ -21,6 +21,10 @@ Enter the following settings for the **List** Webhook:
 
 Enter the following settings for the **Search** Webhook:
 
+![Screenshot 2024-07-05 at 13 47 23](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/150d8056-65db-4215-b988-6003de0172e7)
+
+Enter the following settings for the **Delete** Webhook:
+
 
 
 
