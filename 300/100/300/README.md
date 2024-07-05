@@ -35,9 +35,9 @@ That should complete the initial Webhook creation. Make sure to save and activat
 
 ![Screenshot 2024-07-05 at 14 01 35](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/c2f0634e-9c30-4316-9ff7-6a0d4e0b7252)
 
-## The rest of the workflo
-Whil the rest of the workflow is important for generating the proper outcomes for the API, it has very little to do with the API itself.
+## The rest of the workflow
+While the rest of the workflow is important for generating the proper outcomes for the API, it has very little to do with the API itself.
 
 You can download the whole workflow here: https://gitg=hub.com/PacktPublishing/Rapid-Product-Development_with-n8n/blob/main/Chapter%205/User_Management_API.json
 
-Now that we have built  the API in n8n, let's look at how to add further security to your API endpoints.
+Now that we have built the API in n8n, let's look at how to add further security to your API endpoints.
