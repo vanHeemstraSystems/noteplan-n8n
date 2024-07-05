@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+noteplan-n8n
+# NotePlan n8n
 
-Based on "ABC" at https://www.abc.com/
+Based on "Configuring the Webhook node to handle requests" from the book Rapid Product Development with n8n"" by Jason McFeetors & Tanay Pant
+
+Based on "Noteplan" at https://github.com/vanHeemstraSystems/noteplan
 
 ## 100 - Introduction
 
