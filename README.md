@@ -1,7 +1,9 @@
 noteplan-n8n
 # NotePlan n8n
 
-Based on "Configuring the Webhook node to handle requests" from the book Rapid Product Development with n8n"" by Jason McFeetors & Tanay Pant
+Based on "Configuring the Webhook node to handle requests" from the book "Rapid Product Development with n8n" by Jason McFeetors & Tanay Pant
+
+Based on "Rapid Product Development with n8n" at https://github.com/PacktPublishing/Rapid-Product-Development-with-n8n
 
 Based on "Noteplan" at https://github.com/vanHeemstraSystems/noteplan
 
