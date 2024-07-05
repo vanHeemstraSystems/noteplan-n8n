@@ -17,6 +17,10 @@ Enter the following settings for the **Add** Webhook:
 
 Enter the following settings for the **List** Webhook:
 
+![Screenshot 2024-07-05 at 13 43 07](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/a2662d9f-8fe0-4653-8496-d97da2c6828a)
+
+Enter the following settings for the **Search** Webhook:
+
 
 
 
