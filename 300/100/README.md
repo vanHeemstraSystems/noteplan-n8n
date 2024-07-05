@@ -2,3 +2,6 @@
 
 Based on "Configuring the Webhook node to handle requests" from the book "Rapid Product Development with n8n" by Jason McFeetors & Tanay Pant
 
+## 100 API Project Specifications
+
+See [README.md](./100/README.md)
