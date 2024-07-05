@@ -5,3 +5,9 @@ Based on "Configuring the Webhook node to handle requests" from the book "Rapid 
 ## 100 API Project Specifications
 
 See [README.md](./100/README.md)
+
+## 200 Creating Credentials
+
+See [README.md](./200/README.md)
+
+MORE
