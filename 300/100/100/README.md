@@ -9,7 +9,7 @@ Our API is going to have five endpoints:
 -  GET /api/v1/activity/list
 -  GET /api/v1/activity/search
 -  POST /api/v1/activity/delete
--  POSt /api/v1/activity/change_status
+-  POST /api/v1/activity/change_status
 
 The base URL for our API will be https://wvanheemstra.app.n8n.cloud/webhook since that is the Webhook URL for our n8n cloud instance.
 
