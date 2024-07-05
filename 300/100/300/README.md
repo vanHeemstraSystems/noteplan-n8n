@@ -25,7 +25,12 @@ Enter the following settings for the **Search** Webhook:
 
 Enter the following settings for the **Delete** Webhook:
 
+![Screenshot 2024-07-05 at 13 52 48](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/4b4cfb4f-9a88-4281-b8df-f4b534890c5d)
+
+Enter the following settings for the **Change_Status** Webhook:
 
 
+
+That should complete the initial Webhook creation. Make sure to save and activate the workflow.
 
 MORE
