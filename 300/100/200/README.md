@@ -9,4 +9,5 @@ The first step will be to create the header authentication:
    - **Value**: Bearer 675xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx (hidden for security reasons)
    ![Screenshot 2024-07-05 at 12 59 52](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/db9edfb6-962e-42ef-a669-e2f38e611eef)
 Click the **Save** button
+![Screenshot 2024-07-05 at 13 20 09](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/8a98500d-e020-4ab4-8093-63eda1678ceb)
  
