@@ -33,7 +33,7 @@ Enter the following settings for the **Change_Status** Webhook:
 
 That should complete the initial Webhook creation. Make sure to save and activate the workflow.
 
-![Screenshot 2024-07-05 at 14 01 35](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/08a17fe2-90b7-496b-b1a5-0612a200cc75)
+![Screenshot 2024-07-09 at 10 19 45](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/a4c5d415-fa54-49d4-9b82-e39b99d22e75)
 
 ## The rest of the workflow
 While the rest of the workflow is important for generating the proper outcomes for the API, it has very little to do with the API itself.
