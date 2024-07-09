@@ -1,6 +1,6 @@
 # 300 Creating Webhooks
 
-Next, let's create the Webhooks in n8n. Create an empty workflow, call it ```Activity API Management```, and click the **+** sign:
+Next, let's create the Webhooks in n8n. Create an empty workflow and click the **+** sign:
 
 ![Screenshot 2024-07-05 at 13 26 34](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/68f0d37d-e84b-45c7-8d89-11f76284abd0)
 
@@ -31,7 +31,7 @@ Enter the following settings for the **Change_Status** Webhook:
 
 ![Screenshot 2024-07-05 at 13 58 28](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/912c7807-ec0a-4f03-b554-d46fbde25a98)
 
-That should complete the initial Webhook creation. Make sure to save and activate the workflow.
+That should complete the initial Webhook creation. Make sure to save and activate the workflow. Rename it to ```Activity API Management```.
 
 ![Screenshot 2024-07-09 at 10 19 45](https://github.com/vanHeemstraSystems/noteplan-n8n/assets/1499433/a4c5d415-fa54-49d4-9b82-e39b99d22e75)
 
